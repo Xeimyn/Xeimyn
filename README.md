@@ -1,7 +1,1 @@
-Hi im Simon and i do Stuff sometimes maybe or maybe not idk.
-
-🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪
-
-Contact:
--Discord 
-JCMS#0557
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justcallmesimon26&show_icons=true&theme=transparent)

@@ -1,3 +1,5 @@
+Hi, I'm Simon.
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justcallmesimon26&show_icons=true&theme=transparent&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=justcallmesimon26&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 

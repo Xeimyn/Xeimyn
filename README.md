@@ -1,12 +1,12 @@
 Hi, I'm Simon.
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justcallmesimon26&show_icons=true&theme=transparent&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=justcallmesimon26&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCMSimon&show_icons=true&theme=transparent&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JCMSimon&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JustCallMeSimon26&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=JCMSimon&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D)
 ---
 ![https://wakatime.com/@JustCallMeSimon](https://wakatime.com/badge/user/70598513-ccb3-4d53-8dba-70af88d52384.svg?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=justcallmesimon26&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=JCMSimon&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ---
 <!--- Languages and Tools --->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 

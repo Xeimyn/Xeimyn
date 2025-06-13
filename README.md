@@ -1,5 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=270&color=663399&text=Hi%2C%20I%E2%80%99m%20Simon.&textBg=false&section=header&reversal=false&fontColor=000000&animation=fadeIn&stroke=663399">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=270&color=663399&text=Hi%2C%20I%E2%80%99m%20Simon.&textBg=false&section=header&reversal=false&fontColor=ffffff&animation=fadeIn&stroke=663399">
-  <img alt="Hi, I’m Simon." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<div align="center">
+  <img alt="Hi, I’m Simon." src="https://capsule-render.vercel.app/api?type=blur&height=270&color=663399&text=Hi%2C%20I%E2%80%99m%20Simon.&textBg=false&section=header&reversal=false&fontColor=000000&animation=fadeIn&stroke=ffffff">  
+  <details>
+  <summary>Stats</summary>
+    <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=Xeimyn&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background-type=solid&properties=background&currStreakNum=663399&fire=ffffff&ring=663399&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </details>
+</div>

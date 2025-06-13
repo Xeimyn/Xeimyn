@@ -9,7 +9,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeimyn&theme=transparent&hide_border=true&title_color=ffffff" alt="Most used Languages" />
     <br />
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```rust
+From: 05 June 2025 - To: 12 June 2025
+
+Total Time: 0 secs
+
+Other   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
+<!--END_SECTION:waka-->
   </details>
   <details>
     <summary>Tech</summary>
